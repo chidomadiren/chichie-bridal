@@ -1,22 +1,72 @@
-<<<<<<< HEAD
-# React + Vite
+#  Chichie Bridal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A stunning, elegant web application designed for a modern bridal service platform. Built with a focus on clean layouts, responsive design, and smooth user experiences to showcase wedding dresses, bridal accessories, and consultation booking services.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+##  Features
 
-## React Compiler
+* **Bridal Lookbook & Catalog:** Browse curated collections of wedding gowns, veils, and accessories.
+* **Service Booking:** Seamless appointment scheduling for bridal fittings and styling consultations.
+* **Responsive Design:** Fully optimized for mobile, tablet, and desktop viewports.
+* **Modern UI/UX:** Built with clean aesthetics, soft typography, and smooth transitions tailored to the luxury bridal experience.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-"# chichie-bridal" 
-"# chichie-bridal" 
-"# chichiebridal-app" 
->>>>>>> 9057ecfa78c2ba8024f21a3c703bdcca75cf9125
+* **Frontend:** React / Next.js, Tailwind CSS
+* **Icons & Styling:** Lucide Icons, Custom CSS animations
+* **Version Control:** Git & GitHub
+
+---
+
+##  Getting Started
+
+Follow these instructions to run the project locally on your machine.
+
+### Prerequisites
+
+Make sure you have [Node.js](https://nodejs.org/) and Git installed.
+
+### Installation
+
+1. **Clone the repository:**
+```bash
+git clone https://github.com/chidomadiren/chichie-bridal.git
+
+```
+
+
+2. **Navigate to the project directory:**
+```bash
+cd chichie-bridal
+
+```
+
+
+3. **Install dependencies:**
+```bash
+npm install
+
+```
+
+
+4. **Run the development server:**
+```bash
+npm run dev
+
+```
+
+
+5. Open your browser and go to `http://localhost:3000` (or the port specified in your terminal).
+
+---
+
+
+##  Author
+
+* **Chido Madiren**
+
+
+
